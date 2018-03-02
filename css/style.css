@@ -1,0 +1,28 @@
+body {
+    box-sizing: border-box;
+    font-family: tahoma;
+}
+div.container-fluid {
+    background-image: url("http://www.lonelyplanet.com/travel-blog/tip-article/wordpress_uploads/2015/11/tatra-mountains-750-cs.jpg");
+    height: 700px;
+    padding: 50px;
+    width: 100%;
+}
+div.box {
+    border: 1px outset gray;
+    height: 150px;
+    margin: 0 auto;
+    padding: 30px;
+    text-align: center;
+    width: 30%;
+}
+.box p {
+    color: black;
+}
+.box form input {
+    color: black;
+    height: 20px;
+    margin: 5px;
+}
+
+
