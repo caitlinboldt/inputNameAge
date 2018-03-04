@@ -10,7 +10,7 @@ div.container-fluid {
 }
 div.box {
     border: 1px outset gray;
-    height: 150px;
+    height: 300px;
     margin: 0 auto;
     padding: 30px;
     text-align: center;
@@ -21,6 +21,8 @@ div.box {
 }
 .box form input {
     color: black;
+    font-size: 14px;
+    font-weight: 500;
     height: 20px;
     margin: 5px;
 }
